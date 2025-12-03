@@ -78,7 +78,7 @@ def create_claim():
             
             result = validate_claim(policy_number, loss_date)
             
-            if result is None or result.get("status") == "new":
+            if result is None or result.get("Status") == "New":
                 return attempt_claim_creation(cleaned_text, policy_details, policy_number)
 
             elif result.get("Status") == "Duplicate":
