@@ -1,0 +1,55 @@
+{
+    "PolicyNumber": "",
+    "LossDate": "",
+    "PolicyType": "",
+    "InvolvedVehicles": [
+        {
+            "Vin": "",
+            "LossOccured": "",
+            "DriverRelation": "",
+            "VehicleType": "",
+            "InvolvedCoverage": [
+                {
+                    "Coverage": "",
+                    "CoverageType": "",
+                    "CoverageSubtype": "",
+                    "Claimant_FirstName": "",
+                    "Claimant_LastName": "",
+                    "ClaimantType": ""
+                },
+                {
+                    "Coverage": "",
+                    "CoverageType": "",
+                    "CoverageSubtype": "",
+                    "Claimant_FirstName": "",
+                    "Claimant_LastName": "",
+                    "ClaimantType": ""
+                }
+            ]
+        },
+        {
+            "Vin": "",
+            "LossOccured": "",
+            "DriverRelation": "",
+            "VehicleType": "",
+            "InvolvedCoverage": [
+                {
+                    "Coverage": "",
+                    "CoverageType": "",
+                    "CoverageSubtype": "",
+                    "Claimant_FirstName": "",
+                    "Claimant_LastName": "",
+                    "ClaimantType": ""
+                }
+            ]
+        }
+    ],
+    "Reporter_FirstName": "",
+    "Reporter_LastName": "",
+    "RelationshipToInsured": "",
+    "LossCause": "",
+    "City": "",
+    "AddressLine1": "",
+    "State": "",
+    "ZipCode": ""
+}
