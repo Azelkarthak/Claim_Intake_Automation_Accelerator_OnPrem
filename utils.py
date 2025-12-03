@@ -154,7 +154,7 @@ def verify_policy(policy_details, loss_date_str):
         print("Expiration Date:", exp_date)
 
         if loss_date > sub_date:
-            return "Error"
+            return "PolicyInvalid"
         
         if eff_date <= sub_date <= exp_date:
 
